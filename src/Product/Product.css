@@ -1,0 +1,20 @@
+.product{
+    border: 1px solid rgba(59, 146, 222, 0.398);
+    padding: 5px 5px 0 5px;
+    border-radius: 5px;
+    position: relative;
+    min-height: 520px;
+}
+.product button{
+    width: 100%;
+    background-color: rgba(117, 63, 211, 0.811);
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+img{
+    width: 100%;
+}
